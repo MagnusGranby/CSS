@@ -38,3 +38,11 @@ ul {
     width:516px;
     display: block;
 }
+
+a {
+    color:white
+}
+
+img {
+    border-radius: 100%;
+}
