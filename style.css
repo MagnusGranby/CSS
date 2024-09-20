@@ -39,10 +39,12 @@ ul {
     display: block;
 }
 
+/* Dette er for å gjøre skriften hvit */
 a {
     color:white
 }
 
+/* Dette er for å gjøre bilde på toppen rundt */
 img {
     border-radius: 100%;
 }
